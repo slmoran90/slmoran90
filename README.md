@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi there! I'm Sergio
 
-<!--
-**slmoran90/slmoran90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a frontend developer focused on user experience, visual clarity, and maintainable solutions.
 
-Here are some ideas to get you started:
+Visit my [PORTFOLIO WEB](https://sergiomoran.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergiomoranpr)
+
+[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:sergiomoran.dev@gmail.com)
+
+[![GitHub Follow](https://img.shields.io/github/followers/slmoran90?style=flat&logoColor=%2314b8a6&labelColor=%23000&color=%2314b8a6
+)](https://github.com/slmoran90)
+
+
+### GitHub Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=slmoran90&theme=tokyonight&hide_border=true&locale=es&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slmoran90&layout=compact)
